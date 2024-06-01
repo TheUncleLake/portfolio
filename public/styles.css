@@ -9,9 +9,9 @@ body {
 
 .column-left {
     float: left;
-    background-color:#B4A4A4;
-    padding: 0px 20px;
-    width: 20%;
+    background-color:#C4B4B4;
+    padding: 0px 40px;
+    width: 25%;
     height: 100vh;
 }
 
@@ -19,7 +19,7 @@ body {
     float: left;
     background-color:#e0e0d0;
     padding: 0px 20px;
-    width: 80%;
+    width: 75%;
     height: 100vh;
 }
 
