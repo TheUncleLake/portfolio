@@ -3,6 +3,7 @@
 }
 
 body {
+    margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
     font-size: larger;
 }
@@ -13,6 +14,7 @@ body {
     padding: 0px 40px;
     width: 25%;
     height: 100vh;
+    overflow: auto;
 }
 
 .column-right {
@@ -21,6 +23,7 @@ body {
     padding: 0px 20px;
     width: 75%;
     height: 100vh;
+    overflow: auto;
 }
 
 .row:after {
